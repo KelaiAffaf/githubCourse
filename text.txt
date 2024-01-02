@@ -1,0 +1,25 @@
+hello everyone this is course number one 
+
+<> </> tag ==> <html></html> 
+- dash 
+_ under dash
+<> angle brackets
+{} curly brackets
+[] square brackets
+() circle brackets
+'' single quotes
+"" double quotes
+/ slash 
+|| or ( ou)
+&& and ( et )
+
+ctrl+S ==> save 
+ctrl+x ==> couper 
+ctrl+z ==> retour en arriere
+ctrl+c copier 
+ctrl+v coller
+ctrl+y ==> retour avant
+ctrl+a ==> select all 
+
+
+
